@@ -23,3 +23,4 @@ Este repositório está dividido da seguinte forma:
 ## Atenção
 1. Atualmente estudando **JDBC** - *abril, 2024*.
 2. Serão adicionados novas pastas ao decorrer do curso.
+3. Curso disponível na Udemy
